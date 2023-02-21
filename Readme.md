@@ -1,7 +1,7 @@
 - 👋 Heya Guys, I'm Varun😎
-- 👀 I’m currently learning Python and Data Science😍
-- 🌱 I’m intrested in learning languages, ethical hacking and many more❤️
-- 📫 How to reach me ...hit me on insta at __its_me_varun__ ...my name varun would be written only. 
+- 👀 I’m have completed Data Science Course and Python Programming Language😍
+- 🌱 I’m intrested in learning different Programming languages, ethical hacking and Gaming❤️
+- 📫 How to reach me ...Hit me up in the links attached below. 
 
 <!---
 SandeepVarun/SandeepVarun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
