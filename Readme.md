@@ -7,6 +7,7 @@
 - 📫 How to reach me.....varundriftking1999@gmail.com
 HIT ME UP ON:
 https://www.linkedin.com/in/sandeep-varun-patro-704152233
+![linked-in-alt]([https://user-images.githubusercontent.com/103124981/232190486-545ae582-9ea3-4a67-a28c-446626a13cae.svg](https://www.linkedin.com/in/sandeep-varun-patro-704152233))
 
 
 <!---
