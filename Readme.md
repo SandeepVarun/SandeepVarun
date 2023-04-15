@@ -1,4 +1,5 @@
-- [giphy](https://user-images.githubusercontent.com/103124981/232189072-80265d34-9c77-4b89-b4b1-715286db7f75.gif
+![giphy](https://user-images.githubusercontent.com/103124981/232190750-bde212e1-3072-4389-a88d-329a00c719cc.gif)
+- 
 - 🙏Har Har Mahadev everyone, Myself Varun😀
 - 👀Welcome to my Profile 
 - 😍 A Data scientist aspirant
