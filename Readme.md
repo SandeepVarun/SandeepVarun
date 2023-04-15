@@ -1,8 +1,12 @@
-- 👋 Heya Guys, I'm Varun😎
-- 👀 I’m have completed Certified Data Science Course and Python Programming Language😍
-- 🌱 I’m intrested in learning different Programming languages, ethical hacking and Gaming❤️
-- 📫 How to reach me ...Hit me up in the links attached below. 
-- ![giphy](https://user-images.githubusercontent.com/103124981/232188669-ad2ec889-d3f1-4d8c-acd6-ad67d146aebf.gif)
+- [giphy](https://user-images.githubusercontent.com/103124981/232189072-80265d34-9c77-4b89-b4b1-715286db7f75.gi
+- 🙏Har Har Mahadev everyone, Myself Varun😀
+- 👀Welcome to my Profile 
+- 😍 A Data scientist aspirant
+- 🌱 I’m intrested in learning different Programming languages, Ethical hacking and Gaming❤️
+- All of my projects are available at
+- 📫 How to reach me.....varundriftking1999@gmail.com
+HIT ME UP ON:
+https://www.linkedin.com/in/sandeep-varun-patro-704152233
 
 
 <!---
