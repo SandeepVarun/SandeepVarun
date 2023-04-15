@@ -5,9 +5,13 @@
 - 🌱 I’m intrested in learning different Programming languages, Ethical hacking and Gaming❤️
 - All of my projects are available at
 - 📫 How to reach me.....varundriftking1999@gmail.com
+
+
 HIT ME UP ON:
 https://www.linkedin.com/in/sandeep-varun-patro-704152233
-![linked-in-alt]([https://user-images.githubusercontent.com/103124981/232190486-545ae582-9ea3-4a67-a28c-446626a13cae.svg](https://www.linkedin.com/in/sandeep-varun-patro-704152233))
+![linked-in-alt](https://www.linkedin.com/in/sandeep-varun-patro-704152233)
+
+![instagram](https://user-images.githubusercontent.com/103124981/232190647-00e881c3-5115-4f49-8f6b-c83b0fe8b5f5.svg)
 
 
 <!---
