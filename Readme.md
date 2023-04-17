@@ -23,7 +23,7 @@
 
 CONNECT ME ON SOCIAL:-
 
-- Linked.in - linkedin.com/in/sandeep-varun-patro-704152233
+- Linked.in - https://www.linkedin.com/in/sandeep-varun-patro-704152233/
 
 
 - Instagram - https://www.instagram.com/__its_me_varun__/
