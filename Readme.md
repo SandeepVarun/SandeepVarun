@@ -36,19 +36,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-                   
+                  
+
 </div><h3 align="right">Connect with me:</h3>
 <p align="right">
-<div> <a href="https://twitter.com/https://twitter.com/Itsmevarun1" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sandeep-varun-patro-704152233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/https://github.com/sandeepvarun" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/https://www.instagram.com/__its_me_varun__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:svarunpatro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://twitter.com/https://twitter.com/Itsmevarun1" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/Itsmevarun1" height="30" width="40" /></a><a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-varun-patro-704152233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-varun-patro-704152233/" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/sandeep.varun.754/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="https://www.facebook.com/sandeep.varun.754/" height="30" width="40" /></a><a href="https://kaggle.com/https://www.kaggle.com/varun1011111111" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/kaggle.svg" alt="https://www.kaggle.com/varun1011111111" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/__its_me_varun__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="https://www.instagram.com/__its_me_varun__/" height="30" width="40" /></a></p>
-
- 
 
 
 
@@ -57,6 +49,12 @@
                                         
                                         
   
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepvarun&show_icons=true&locale=en&layout=compact" alt="sandeepvarun" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepvarun&show_icons=true&locale=en" alt="sandeepvarun" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepvarun&" alt="sandeepvarun" /></p>
 
 
 
